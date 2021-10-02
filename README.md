@@ -1,7 +1,8 @@
 # PSP 1lab
 Simona Salatkaitė PS 1gr.
 
-lw1 - gauti unit testai ir pagal juos realizuoti validatoriai
+lw1 - gauti unit testai ir pagal juos realizuoti validatoriai.
+
 mano_testai - mano sukurti unit testai
 
 Gauti unit testai aiškūs ir patogūs, kodas taip pat buvo aiškus.
